@@ -25,3 +25,5 @@ The investigation validated the effectiveness of hybrid techniques—automated c
 4. **Custom Dictionary Creation** – Developed and used tailored dictionaries for improved password cracking efficiency.
 5. **Analytical Thinking & Problem-Solving** – Applied logical reasoning to identify cipher keys and password patterns.
 6. **Forensic Reporting & Documentation** – Produced professional, evidence-based documentation suitable for technical review.
+
+https://github.com/JonSecOps/Password-Recovery-and-Decryption-using-AccessData-PRTK/blob/main/Password%20Recovery%20and%20Decryption%20using%20AccessData%20PRTK.pdf
